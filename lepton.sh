@@ -1,2 +1,2 @@
 #!/bin/bash
-/home/lepton/build/lepton -listen=2020
+/lepton/lepton -listen=2020
